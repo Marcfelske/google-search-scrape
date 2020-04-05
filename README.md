@@ -1,2 +1,2 @@
 # google-search-scrape
-This script allows a user to loop over a dataframe with companies and their websites and find the links which contain a specific search keyword
+This repository shows the script that was used to determine whether ESVs were active based on a web-scraping and key word search.
